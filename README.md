@@ -1,19 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hi%20there,%20I'm%20Saiful%20👋&fontSize=90&fontAlign=50&fontAlignY=35&desc=Lead%20Developer%20%26%20Software%20Architect&descAlign=50&descAlignY=55&descSize=25&stroke=000000" alt="Header" width="100%"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Saiful+%F0%9F%91%8B;Lead+Developer+%26+Architect;Monorepo+Specialist;Building+Scalable+Apps" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-
-  ### 🚀 Fullstack JavaScript Engineer | Monorepo Enthusiast
-
-  <a href="https://github.com/saifulalm">
-    <img src="https://img.shields.io/github/followers/saifulalm?label=Followers&style=social" alt="Followers" />
-  </a>
-  <a href="https://twitter.com/saifulalm">
-    <img src="https://img.shields.io/twitter/follow/saifulalm?label=Follow&style=social" alt="Twitter" />
-  </a>
-
+  <b>React 19 • Node.js • React Native • PostgreSQL</b>
 </div>
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/saifulalm">
+    <img src="https://img.shields.io/github/followers/saifulalm?label=Followers&style=social" alt="GitHub Badge"/>
+  </a>
+</div>
+<br/>
 
 ---
 
