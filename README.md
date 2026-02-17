@@ -24,7 +24,7 @@ Saya adalah seorang **Lead Developer** yang berfokus pada pembangunan aplikasi w
 - 🔭 I’m currently working on **Pet Clinic Management System (Holla-Lab)**
 - 🌱 I’m currently learning **Advanced Docker Orchestration & AI Integration**
 - 💬 Ask me about **React, Node.js Architecture, & Database Optimization**
-- 📫 How to reach me: **saiful@example.com**
+- 📫 How to reach me: **saiful_alm@outlook.com**
 
 ---
 
